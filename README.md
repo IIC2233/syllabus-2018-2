@@ -1,21 +1,58 @@
-# Repositorio de {Tu usuario de GitHub}
+# IIC2233 - Programación Avanzada
 
-Este es el repositorio que utilizarás durante el resto del curso. Tanto profesores, ayudantes y bots tenemos acceso a este y podremos ver todos los cambios que hagas en tu código. **Es tu deber darle un buen uso y solo con fines académicos.**
 
-**Asegúrate de seguir la estructura de las carpetas y archivos presentes en tu repo.** Puedes crear carpetas adicionales pero **no modifiques la estructura básica**, además de entregar los archivos en su carpeta correspondiente. 
+## Evaluación
 
-Todo el proceso de recolección de tareas y actividades está automatizado, por lo que **cualquier cambio inesperado en la estructura de tu repositorio podría tener consecuencias negativas para tu corrección y una penalización.**
+1. Las evaluaciones serán efectuadas por medio de actividades prácticas en clases, 
+controles (de materia y/o lecturas adicionales), tareas y un examen final. Se calculará **la nota del curso NC** como:
 
-## Datos del alumno
+    **NC = 0.2xFE + 0.45xT + 0.35xEC**
 
-| Nombre | Mail UC |
-| :-: | :-: |
-| {Tu nombre} | {Tu correo UC} |
+    Donde **FE** es la nota del examen final, **T** es el promedio ponderado de las tareas y **EC** es el promedio de las evaluaciones en clases.
+    
+    El promedio ponderado de las tareas se calcula de la siguiente manera:
+    
+    **T** = ∑ (**p<sub>i</sub>** × **t<sub>i</sub>**) / ∑ **p<sub>i</sub>**
+    
+    Donde: 
+    
+      | Nota tarea t<sub>i</sub>                                   | Ponderador p<sub>i</sub> |
+      | ---------------------------------------------------------- |:------------------------:|
+      | t<sub>1</sub>                                              | 60                       |
+      | t<sub>2</sub>,t<sub>3</sub>, t<sub>4</sub>, t<sub>5</sub> | 100                      |
+      | t<sub>6</sub>   (opcional, con inscripción)                | 100                      |
+   
 
-## Sobre las entregas
+1.  Adicionalmente, para aprobar el curso el alumno debe cumplir con:
+    - **AC** debe ser mayor o igual a 3.950
+    - **FE** debe ser mayor o igual a 3.500
+    - **T** debe ser mayor o igual a 3.950
+1. Si el alumno cumple con las condiciones anteriores, entonces **NF = NC**. En caso contrario, **NF = min(3,9; NC)**
+1. La inasistencia a alguna de las evaluaciones (actividad, control, examen) se evalúa con nota 1.0.
+1. Se pueden eliminar las dos peores notas de evaluaciones en clases.
+1. En caso de que el alumno haya asistido a al menos 12 evaluaciones, se eliminará la tercera peor evaluación.
+1. NO se borrará ninguna otra evaluación (actividad, control, tareas, examen) aparte de las estipuladas en los puntos anteriores.  
+1. La última tarea es de carácter opcional y **no** elimina una nota.
+1. Solo será aproximada la nota final NF. El resto de las notas serán usadas con dos decimales.
+1. Las notas de todas las evaluaciónes se publicarán en el [siguiente link](https://docs.google.com/spreadsheets/d/1SMvuWAQlG8-a9yxlEllPN_noUXAk0VYWHOAiMibbzoQ/edit?usp=sharing).
 
-Para la corrección de tareas y actividades en clase tomaremos **el último commit presente en la branch `master` antes del plazo de entrega en GitHub.** Por esto, es importante que cada vez que quieras entregar un trabajo te asegures de que este se muestre en tu repositorio.
 
-## Markdown
+# Foro
 
-Este documento está escrito en Markdown. Es un **lenguaje de marcación**, como *LaTeX*. Como notarás, es bastante simple y GitHub sabe interpretarlo. Markdown es utilizado tanto en **Issues** como **Wikis**, por lo que siempre que estés en GitHub puedes contar con que puedes usarlo. Puedes utilizar [esta guía de referencia](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) para aprender a utilizar Markdown. También existen editores online como [dillinger.io](http://dillinger.io/) o [stackedit.io](https://stackedit.io).
+La página de [Issues](../../issues) se utilizará como foro para preguntas.
+
+
+# Semestres Anteriores
+
+Puedes ver los `syllabus` de los semestres anteriores en:
+- [2015-1](https://github.com/IIC2233-2015-1/syllabus)
+- [2015-2](https://github.com/IIC2233-2015-2/syllabus)
+- [2016-1](https://github.com/IIC2233-2016-1/syllabus)
+- [2016-2](https://github.com/IIC2233-2016-02/Syllabus)
+- [2017-1](https://github.com/IIC2233/Syllabus-2017-1)
+- [2017-2](https://github.com/IIC2233/Syllabus-2017-2)
+- [2018-1](https://github.com/IIC2233/Syllabus-2018-1)
+
+# Otros
+
+Los contenidos, ayudantes, calendario, **cuestionario de recorrecciones** y material se encuentran en este [link](https://iic2233.github.io/).
