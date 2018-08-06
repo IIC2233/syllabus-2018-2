@@ -16,11 +16,11 @@ controles (de materia y/o lecturas adicionales), tareas y un examen final. Se ca
     
     Donde: 
     
-      | Nota tarea t<sub>i</sub>                                   | Ponderador p<sub>i</sub> |
-      | ---------------------------------------------------------- |:------------------------:|
-      | t<sub>0</sub>                                              | 60                       |
-      | t<sub>1</sub>, t<sub>2</sub>, t<sub>3</sub>, t<sub>4</sub> | 100                      |
-      | t<sub>5</sub>   (opcional, con inscripción)                | 100                      |
+      | Nota tarea t<sub>i</sub>                                       | Ponderador p<sub>i</sub> |
+      | -------------------------------------------------------------- |:------------------------:|
+      | t<sub>00</sub>                                                 | 60                       |
+      | t<sub>01</sub>, t<sub>02</sub>, t<sub>03</sub>, t<sub>04</sub> | 100                      |
+      | t<sub>05</sub>   (opcional, con inscripción)                   | 100                      |
    
 
 1.  Adicionalmente, para aprobar el curso el alumno debe cumplir con:
