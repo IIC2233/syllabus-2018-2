@@ -8,6 +8,8 @@ Puede haber pasado algún tiempo desde que tomaste el curso de Introducción a l
 - Operadores con números: `+`, `-`, `*`, `/`, `//`, `%`, `**`.
 - Input / Output básico por consola.
 - Control de flujo con `if`, `elif`, `else`.
+  - Comparación con `==`, `!=`, `<`, `<=`, `>`, `>=`.
+  - Operadores booleanos como `and`, `or`, `not`.
 - Ciclos `for` y `while`.
 - Funciones:
   - Creación de funciones propias.
