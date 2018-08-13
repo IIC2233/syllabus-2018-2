@@ -6,7 +6,7 @@ A pesar de que se pueden acumular más de 10 décimas entre todos los descuentos
 
 Si la tarea se entrega atrasada, entonces la fórmula es
 
-#### <center>mín(total descuentos aplicados, 30)</center>
+#### <center>mín(10 + descuentos atrasos, descuentos totales)</center>
 
 ## PEP8 (3 décimas) :pencil2: 
 PEP8 es el estándar que se utiliza para programar en `Python` :snake:, por lo que es importante que se sigan las convenciones. Todo tipo de detalle sobre estas convenciones se encuentran [aquí](https://www.python.org/dev/peps/pep-0008/).
