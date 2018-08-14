@@ -1,0 +1,1198 @@
+entamburini;Michelada
+entamburini;Bloody Mary
+entamburini;Sex On The Beach
+entamburini;Terremoto
+entamburini;Manhattan
+fringlesinthestreet;Michelada
+fringlesinthestreet;Sangria
+fringlesinthestreet;Blue Lagoon
+fringlesinthestreet;Submarino
+fringlesinthestreet;Daiquiri
+fringlesinthestreet;Margarita
+fringlesinthestreet;Agua de Valencia
+inaguilera;Michelada
+inaguilera;Daiquiri
+inaguilera;Bloody Mary
+inaguilera;Martini
+inaguilera;Sex On The Beach
+inaguilera;Margarita
+inaguilera;Piña Colada
+LucianoAguileraG;Michelada
+LucianoAguileraG;Sangria
+LucianoAguileraG;Martini
+LucianoAguileraG;Terremoto
+LucianoAguileraG;Submarino
+danielaguilera;Michelada
+danielaguilera;Cosmopolitan
+danielaguilera;Terremoto
+danielaguilera;Submarino
+Faalfaro;Michelada
+Faalfaro;Blue Lagoon
+Faalfaro;Bloody Mary
+faandrade;Michelada
+faandrade;Piña Colada
+faandrade;Daiquiri
+faandrade;Blue Lagoon
+faandrade;Margarita
+faandrade;Agua de Valencia
+faandrade;Manhattan
+alexaptib;Michelada
+alexaptib;Margarita
+alexaptib;Bloody Mary
+alexaptib;Manhattan
+alexaptib;Terremoto
+alexaptib;Tequila
+alexaptib;Martini
+MartinAracena;Michelada
+MartinAracena;Piña Colada
+MartinAracena;Mojito Cubano
+MartinAracena;Bloody Mary
+haarenas;Michelada
+haarenas;Piña Colada
+haarenas;Terremoto
+ieastorga;Michelada
+ieastorga;Manhattan
+ieastorga;Martini
+ieastorga;Submarino
+dabalada;Michelada
+fabarros;Michelada
+fabarros;Mojito Cubano
+nabenitez;Michelada
+nabenitez;Sangria
+dberezin;Michelada
+dberezin;Martini
+dberezin;Cosmopolitan
+dberezin;Daiquiri
+dberezin;Sex On The Beach
+dberezin;Tequila
+dberezin;Margarita
+Bizama;Michelada
+Bizama;Manhattan
+Bizama;Blue Lagoon
+Bizama;Mojito Cubano
+Bizama;Daiquiri
+Bizama;Sangria
+FelipeBodelon;Michelada
+FelipeBodelon;Martini
+FelipeBodelon;Daiquiri
+FelipeBodelon;Cosmopolitan
+FelipeBodelon;Submarino
+FelipeBodelon;Bloody Mary
+FelipeBodelon;Sangria
+tomystark;Michelada
+tomystark;Bloody Mary
+tomystark;Sex On The Beach
+tomystark;Martini
+NicolasCabello;Michelada
+NicolasCabello;Martini
+NicolasCabello;Blue Lagoon
+NicolasCabello;Tequila
+fncabrera;Michelada
+fncabrera;Manhattan
+fncabrera;Sangria
+fncabrera;Tequila
+fncabrera;Daiquiri
+fncabrera;Mojito Cubano
+fncabrera;Blue Lagoon
+jncaceres;Michelada
+jncaceres;Daiquiri
+jncaceres;Submarino
+jncaceres;Sangria
+jncaceres;Sex On The Beach
+jncaceres;Manhattan
+jncaceres;Margarita
+Cadagan;Michelada
+Cadagan;Blue Lagoon
+Cadagan;Bloody Mary
+Cadagan;Sex On The Beach
+Cadagan;Sangria
+Cadagan;Mojito Cubano
+ncasassus;Michelada
+ncasassus;Cosmopolitan
+BenjaCastillo;Michelada
+BenjaCastillo;Mojito Cubano
+BenjaCastillo;Manhattan
+BenjaCastillo;Sangria
+BenjaCastillo;Piña Colada
+castrillini;Michelada
+castrillini;Mojito Cubano
+castrillini;Blue Lagoon
+castrillini;Margarita
+castrillini;Agua de Valencia
+bjcastro;Michelada
+bjcastro;Daiquiri
+bjcastro;Martini
+gfcataldo;Michelada
+gfcataldo;Tequila
+ChaparoD;Michelada
+ChaparoD;Bloody Mary
+ChaparoD;Sangria
+ChaparoD;Sex On The Beach
+ChaparoD;Mojito Cubano
+ChaparoD;Margarita
+maconcha4;Michelada
+maconcha4;Daiquiri
+Conjo1;Michelada
+Conjo1;Piña Colada
+jpcorread;Michelada
+jpcorread;Margarita
+jpcorread;Daiquiri
+jpcorread;Manhattan
+jpcorread;Tequila
+facortes1;Michelada
+facortes1;Sex On The Beach
+facortes1;Tequila
+facortes1;Mojito Cubano
+facortes1;Sangria
+facortes1;Cosmopolitan
+sopadeoliva;Michelada
+sopadeoliva;Blue Lagoon
+BcruzUC;Michelada
+BcruzUC;Margarita
+BcruzUC;Manhattan
+BcruzUC;Bloody Mary
+BcruzUC;Sangria
+BcruzUC;Tequila
+fddelabarra;Michelada
+fddelabarra;Tequila
+fddelabarra;Sangria
+ridiaz2;Michelada
+ridiaz2;Daiquiri
+ridiaz2;Sex On The Beach
+ridiaz2;Sangria
+ridiaz2;Bloody Mary
+ridiaz2;Blue Lagoon
+ridiaz2;Terremoto
+josem7;Michelada
+PPDZ;Michelada
+PPDZ;Tequila
+PPDZ;Daiquiri
+PPDZ;Margarita
+PPDZ;Agua de Valencia
+tatanpoker09;Michelada
+tatanpoker09;Agua de Valencia
+tatanpoker09;Manhattan
+tatanpoker09;Margarita
+jpelorrieta;Michelada
+jpelorrieta;Submarino
+PaoloFabia;Michelada
+PaoloFabia;Piña Colada
+BFFV;Michelada
+BFFV;Bloody Mary
+BFFV;Submarino
+AndresFaure;Michelada
+AndresFaure;Agua de Valencia
+AndresFaure;Terremoto
+AndresFaure;Sex On The Beach
+AndresFaure;Sangria
+AndresFaure;Tequila
+jpfernandez3;Michelada
+jpfernandez3;Martini
+jpfernandez3;Terremoto
+rafafdz;Michelada
+rafafdz;Margarita
+rafafdz;Piña Colada
+rafafdz;Bloody Mary
+rafafdz;Manhattan
+mfarol;Michelada
+mfarol;Margarita
+mfarol;Piña Colada
+mfarol;Terremoto
+mfarol;Manhattan
+mfarol;Submarino
+mfarol;Cosmopolitan
+firulais33;Michelada
+cegalleta;Michelada
+cegalleta;Martini
+cegalleta;Daiquiri
+cegalleta;Piña Colada
+cegalleta;Agua de Valencia
+cegalleta;Mojito Cubano
+pgarnham;Michelada
+pgarnham;Submarino
+pgarnham;Margarita
+pgarnham;Martini
+pgarnham;Terremoto
+pgarnham;Sangria
+pgarnham;Mojito Cubano
+cpgarrido;Michelada
+cpgarrido;Margarita
+cpgarrido;Mojito Cubano
+cpgarrido;Agua de Valencia
+mvgil;Michelada
+mvgil;Agua de Valencia
+mvgil;Cosmopolitan
+mvgil;Margarita
+mvgil;Sex On The Beach
+mvgil;Daiquiri
+mvgil;Blue Lagoon
+lgolborne;Michelada
+lgolborne;Bloody Mary
+lgolborne;Terremoto
+lgolborne;Daiquiri
+lgolborne;Blue Lagoon
+lgolborne;Agua de Valencia
+lgolborne;Martini
+viguedelhoefer;Michelada
+viguedelhoefer;Sex On The Beach
+viguedelhoefer;Manhattan
+viguedelhoefer;Martini
+melainakole;Michelada
+melainakole;Martini
+melainakole;Sex On The Beach
+melainakole;Terremoto
+melainakole;Tequila
+melainakole;Piña Colada
+melainakole;Margarita
+mihenriquez;Michelada
+cristianhdez;Michelada
+cristianhdez;Martini
+cristianhdez;Terremoto
+cristianhdez;Tequila
+cristianhdez;Cosmopolitan
+cristianhdez;Daiquiri
+joaquinhernandezg;Michelada
+joaquinhernandezg;Agua de Valencia
+joaquinhernandezg;Martini
+joaquinhernandezg;Tequila
+#N/A;Michelada
+tristan-heuer;Michelada
+tristan-heuer;Mojito Cubano
+tristan-heuer;Martini
+tristan-heuer;Agua de Valencia
+tristan-heuer;Sangria
+Mahund;Michelada
+Mahund;Agua de Valencia
+Mahund;Blue Lagoon
+Mahund;Sex On The Beach
+Mahund;Martini
+Mahund;Cosmopolitan
+gatochico;Michelada
+gatochico;Piña Colada
+Tomas-Ira;Michelada
+Tomas-Ira;Mojito Cubano
+Tomas-Ira;Cosmopolitan
+Tomas-Ira;Martini
+Tomas-Ira;Piña Colada
+Tomas-Ira;Sangria
+Tomas-Ira;Sex On The Beach
+JacoboJacobino;Michelada
+JacoboJacobino;Daiquiri
+JacoboJacobino;Piña Colada
+JacoboJacobino;Sangria
+aljara97;Michelada
+aljara97;Mojito Cubano
+gejohow;Michelada
+gejohow;Piña Colada
+gejohow;Cosmopolitan
+gejohow;Margarita
+gejohow;Submarino
+swklemmer;Michelada
+swklemmer;Margarita
+swklemmer;Manhattan
+8-11-95;Michelada
+8-11-95;Sex On The Beach
+8-11-95;Tequila
+8-11-95;Blue Lagoon
+8-11-95;Terremoto
+8-11-95;Piña Colada
+imleaplaza;Michelada
+imleaplaza;Margarita
+imleaplaza;Daiquiri
+imleaplaza;Martini
+imleaplaza;Terremoto
+imleaplaza;Submarino
+Etienne99;Michelada
+#N/A;Michelada
+#N/A;Martini
+#N/A;Daiquiri
+#N/A;Mojito Cubano
+#N/A;Sangria
+#N/A;Submarino
+Banfanci;Michelada
+Banfanci;Martini
+Banfanci;Submarino
+Banfanci;Manhattan
+fjlopez7;Michelada
+fjlopez7;Sangria
+fjlopez7;Submarino
+fjlopez7;Manhattan
+baltasarluco;Michelada
+baltasarluco;Mojito Cubano
+baltasarluco;Martini
+baltasarluco;Sex On The Beach
+baltasarluco;Bloody Mary
+tamaralues;Michelada
+tamaralues;Daiquiri
+tamaralues;Martini
+tamaralues;Agua de Valencia
+tamaralues;Manhattan
+cmarquez1;Michelada
+cmarquez1;Piña Colada
+cmarquez1;Mojito Cubano
+cmarquez1;Sangria
+cmarquez1;Agua de Valencia
+cmarquez1;Bloody Mary
+amartinezsilberstein;Michelada
+amartinezsilberstein;Tequila
+amartinezsilberstein;Terremoto
+amartinezsilberstein;Martini
+amartinezsilberstein;Blue Lagoon
+amartinezsilberstein;Agua de Valencia
+msmendoza;Michelada
+msmendoza;Bloody Mary
+jerrymendoza;Michelada
+jerrymendoza;Cosmopolitan
+martucoss;Michelada
+martucoss;Agua de Valencia
+martucoss;Blue Lagoon
+martucoss;Bloody Mary
+matiasmodinger;Michelada
+matiasmodinger;Tequila
+matiasmodinger;Agua de Valencia
+matiasmodinger;Sex On The Beach
+matiasmodinger;Daiquiri
+iamoreno;Michelada
+iamoreno;Piña Colada
+iamoreno;Bloody Mary
+iamoreno;Manhattan
+bmorrisc;Michelada
+bmorrisc;Martini
+bmorrisc;Submarino
+bmorrisc;Piña Colada
+bmorrisc;Sex On The Beach
+bmorrisc;Mojito Cubano
+martinmullerm;Michelada
+martinmullerm;Mojito Cubano
+martinmullerm;Bloody Mary
+martinmullerm;Daiquiri
+gnacrur;Michelada
+gnacrur;Submarino
+gnacrur;Martini
+gnacrur;Piña Colada
+gnacrur;Blue Lagoon
+cristianoberpaur;Michelada
+cristianoberpaur;Sangria
+csolguin;Michelada
+csolguin;Piña Colada
+csolguin;Blue Lagoon
+csolguin;Martini
+JupaOlivares;Michelada
+JupaOlivares;Bloody Mary
+JupaOlivares;Tequila
+JupaOlivares;Terremoto
+JupaOlivares;Sex On The Beach
+cjortuzar;Michelada
+cacosandon;Michelada
+cacosandon;Sex On The Beach
+cacosandon;Submarino
+cacosandon;Agua de Valencia
+cacosandon;Tequila
+cacosandon;Martini
+cacosandon;Blue Lagoon
+DaniOteiza;Michelada
+DaniOteiza;Daiquiri
+DaniOteiza;Sangria
+sebaparechev;Michelada
+sebaparechev;Sangria
+sebaparechev;Mojito Cubano
+depedraza;Michelada
+depedraza;Cosmopolitan
+depedraza;Terremoto
+depedraza;Manhattan
+adpolanco;Michelada
+adpolanco;Mojito Cubano
+miguelramirezv;Michelada
+miguelramirezv;Mojito Cubano
+miguelramirezv;Bloody Mary
+miguelramirezv;Margarita
+miguelramirezv;Cosmopolitan
+mframos3;Michelada
+mframos3;Daiquiri
+Nacho111;Michelada
+Nacho111;Piña Colada
+Nacho111;Agua de Valencia
+Nacho111;Daiquiri
+Nacho111;Tequila
+fisalinas;Michelada
+fisalinas;Piña Colada
+fisalinas;Martini
+BSamilla;Michelada
+jasanchez1;Michelada
+jasanchez1;Sex On The Beach
+jasanchez1;Martini
+jasanchez1;Piña Colada
+jasanchez1;Submarino
+jasanchez1;Manhattan
+jasanchez1;Terremoto
+jmsilvas;Michelada
+jmsilvas;Manhattan
+jasubercaseaux;Michelada
+jasubercaseaux;Cosmopolitan
+jasubercaseaux;Margarita
+jasubercaseaux;Daiquiri
+jasubercaseaux;Mojito Cubano
+jasubercaseaux;Terremoto
+jasubercaseaux;Manhattan
+topkaj;Michelada
+ftrejoc;Michelada
+marcotroncoso;Michelada
+marcotroncoso;Martini
+marcotroncoso;Blue Lagoon
+marcotroncoso;Cosmopolitan
+lurzua;Michelada
+mathiasvaldebenito;Michelada
+mathiasvaldebenito;Martini
+mathiasvaldebenito;Agua de Valencia
+mathiasvaldebenito;Submarino
+mathiasvaldebenito;Manhattan
+mathiasvaldebenito;Sangria
+jrvalenzuela;Michelada
+jrvalenzuela;Terremoto
+diegovaras97;Michelada
+diegovaras97;Cosmopolitan
+diegovaras97;Piña Colada
+diegovaras97;Martini
+diegovaras97;Manhattan
+diegovaras97;Tequila
+trinivargas;Michelada
+trinivargas;Mojito Cubano
+trinivargas;Submarino
+trinivargas;Sex On The Beach
+trinivargas;Tequila
+dhvasquez;Michelada
+dhvasquez;Martini
+isavega;Michelada
+isavega;Sangria
+isavega;Terremoto
+isavega;Bloody Mary
+isavega;Manhattan
+isavega;Cosmopolitan
+isavega;Margarita
+pablovejar;Michelada
+Saveliz;Michelada
+Saveliz;Tequila
+Saveliz;Cosmopolitan
+Saveliz;Manhattan
+dgzmr;Michelada
+dgzmr;Manhattan
+dgzmr;Sex On The Beach
+dgzmr;Submarino
+dgzmr;Sangria
+SergioZarateG;Michelada
+SergioZarateG;Sex On The Beach
+SergioZarateG;Tequila
+SergioZarateG;Sangria
+cristozille;Michelada
+cristozille;Sex On The Beach
+cristozille;Submarino
+cristozille;Piña Colada
+cristozille;Bloody Mary
+cristozille;Blue Lagoon
+cristozille;Tequila
+aaguilarg;Michelada
+aaguilarg;Blue Lagoon
+aaguilarg;Martini
+aaguilarg;Sex On The Beach
+baaldana;Michelada
+Tomasalvarez15;Michelada
+faamigo;Michelada
+faamigo;Daiquiri
+faamigo;Terremoto
+iopancho;Michelada
+iopancho;Agua de Valencia
+iopancho;Blue Lagoon
+iopancho;Sangria
+iopancho;Terremoto
+felipearellanom;Michelada
+felipearellanom;Piña Colada
+felipearellanom;Manhattan
+felipearellanom;Daiquiri
+felipearellanom;Sex On The Beach
+laarias;Michelada
+laarias;Mojito Cubano
+laarias;Sangria
+laarias;Blue Lagoon
+laarias;Sex On The Beach
+laarias;Terremoto
+Fenho;Michelada
+Fenho;Manhattan
+Fenho;Submarino
+Fenho;Martini
+Fenho;Daiquiri
+danaebardi;Michelada
+danaebardi;Agua de Valencia
+danaebardi;Piña Colada
+danaebardi;Mojito Cubano
+sabarrios;Michelada
+sabarrios;Submarino
+jbartolomev;Michelada
+jbartolomev;Sex On The Beach
+jbartolomev;Agua de Valencia
+jbartolomev;Tequila
+jbartolomev;Manhattan
+igbasly;Michelada
+igbasly;Martini
+zrhftc;Michelada
+zrhftc;Sex On The Beach
+zrhftc;Cosmopolitan
+VicenteVicenteVicenteVicenteVicente;Michelada
+VicenteVicenteVicenteVicenteVicente;Agua de Valencia
+AndresCalvo;Michelada
+AndresCalvo;Blue Lagoon
+AndresCalvo;Sex On The Beach
+AndresCalvo;Manhattan
+AndresCalvo;Margarita
+jfcampos4;Michelada
+jfcampos4;Manhattan
+jfcampos4;Bloody Mary
+denisecariaga;Michelada
+denisecariaga;Mojito Cubano
+tpcarrasco;Michelada
+nko205;Michelada
+Franco1605;Michelada
+NicolasCastillo24;Michelada
+NicolasCastillo24;Piña Colada
+NicolasCastillo24;Sangria
+NicolasCastillo24;Sex On The Beach
+NicolasCastillo24;Mojito Cubano
+acastro4;Michelada
+acastro4;Cosmopolitan
+meceledon;Michelada
+meceledon;Martini
+meceledon;Sex On The Beach
+meceledon;Piña Colada
+meceledon;Daiquiri
+meceledon;Mojito Cubano
+yerkko;Michelada
+yerkko;Blue Lagoon
+yerkko;Bloody Mary
+yerkko;Cosmopolitan
+yerkko;Martini
+diecontreras;Michelada
+diecontreras;Cosmopolitan
+diecontreras;Martini
+diecontreras;Manhattan
+diecontreras;Mojito Cubano
+diecontreras;Sangria
+diecontreras;Terremoto
+PaulaCoronado;Michelada
+PaulaCoronado;Cosmopolitan
+sacorsi;Michelada
+sacorsi;Terremoto
+sacorsi;Manhattan
+sacorsi;Cosmopolitan
+sacorsi;Blue Lagoon
+RobinCuevas;Michelada
+chocopiano;Michelada
+chocopiano;Blue Lagoon
+chocopiano;Submarino
+chocopiano;Manhattan
+chocopiano;Bloody Mary
+chocopiano;Tequila
+cmescobar;Michelada
+cmescobar;Sex On The Beach
+cmescobar;Manhattan
+cmescobar;Bloody Mary
+cmescobar;Mojito Cubano
+vtespinosa;Michelada
+vtespinosa;Agua de Valencia
+vtespinosa;Cosmopolitan
+vtespinosa;Sex On The Beach
+vtespinosa;Manhattan
+vtespinosa;Submarino
+fpferrer;Michelada
+fpferrer;Margarita
+afilsecker;Michelada
+afilsecker;Terremoto
+tfflores;Michelada
+tfflores;Manhattan
+tfflores;Bloody Mary
+tfflores;Blue Lagoon
+tfflores;Submarino
+dgfluxa;Michelada
+dgfluxa;Margarita
+dgfluxa;Sex On The Beach
+dgfluxa;Daiquiri
+tgarcia5;Michelada
+tgarcia5;Bloody Mary
+felipegarcia98;Michelada
+felipegarcia98;Sangria
+felipegarcia98;Submarino
+felipegarcia98;Sex On The Beach
+felipegarcia98;Blue Lagoon
+felipegarcia98;Manhattan
+felipegarcia98;Tequila
+tngarrido;Michelada
+tngarrido;Sangria
+tngarrido;Terremoto
+tngarrido;Submarino
+tngarrido;Bloody Mary
+tngarrido;Martini
+trinigomez;Michelada
+trinigomez;Blue Lagoon
+trinigomez;Manhattan
+trinigomez;Tequila
+trinigomez;Mojito Cubano
+trinigomez;Sangria
+miigdm;Michelada
+miigdm;Martini
+miigdm;Daiquiri
+miigdm;Submarino
+degutierrez1;Michelada
+degutierrez1;Blue Lagoon
+degutierrez1;Daiquiri
+degutierrez1;Mojito Cubano
+degutierrez1;Piña Colada
+degutierrez1;Margarita
+srhernandez1;Michelada
+srhernandez1;Submarino
+srhernandez1;Daiquiri
+rodrigofelipe11;Michelada
+rodrigofelipe11;Bloody Mary
+SantiagoHintze;Michelada
+SantiagoHintze;Margarita
+vahojas;Michelada
+vahojas;Blue Lagoon
+ljidalsoaga;Michelada
+ljidalsoaga;Piña Colada
+ljidalsoaga;Margarita
+ljidalsoaga;Manhattan
+ljidalsoaga;Daiquiri
+ljidalsoaga;Agua de Valencia
+ljidalsoaga;Martini
+Danielo4;Michelada
+Danielo4;Blue Lagoon
+Danielo4;Mojito Cubano
+hbkim94;Michelada
+hbkim94;Cosmopolitan
+hbkim94;Blue Lagoon
+hbkim94;Daiquiri
+hbkim94;Submarino
+hbkim94;Tequila
+hbkim94;Piña Colada
+#N/A;Michelada
+#N/A;Mojito Cubano
+#N/A;Daiquiri
+#N/A;Cosmopolitan
+#N/A;Tequila
+#N/A;Agua de Valencia
+#N/A;Blue Lagoon
+NicolasLahsen;Michelada
+NicolasLahsen;Martini
+NicolasLahsen;Mojito Cubano
+NicolasLahsen;Daiquiri
+NicolasLahsen;Tequila
+cdlanas;Michelada
+cdlanas;Submarino
+cdlanas;Margarita
+cdlanas;Mojito Cubano
+cdlanas;Manhattan
+cdlanas;Sangria
+mjesus97;Michelada
+mjesus97;Submarino
+Kitaps;Michelada
+Kitaps;Manhattan
+Michelmagna;Michelada
+Michelmagna;Agua de Valencia
+Michelmagna;Margarita
+Michelmagna;Terremoto
+Michelmagna;Bloody Mary
+DaToMC9;Michelada
+DaToMC9;Cosmopolitan
+fernandamansilla;Michelada
+fernandamansilla;Agua de Valencia
+fernandamansilla;Tequila
+fernandamansilla;Sangria
+fernandamansilla;Cosmopolitan
+fernandamansilla;Sex On The Beach
+somartinez;Michelada
+somartinez;Blue Lagoon
+somartinez;Terremoto
+somartinez;Agua de Valencia
+somartinez;Sangria
+somartinez;Sex On The Beach
+somartinez;Mojito Cubano
+#N/A;Michelada
+#N/A;Sex On The Beach
+#N/A;Sangria
+MMeisters;Michelada
+MMeisters;Tequila
+MMeisters;Submarino
+MMeisters;Manhattan
+MMeisters;Blue Lagoon
+simontoya;Michelada
+simontoya;Mojito Cubano
+simontoya;Sangria
+BlancaMunizaga;Michelada
+mgnavarrete;Michelada
+nhorellana;Michelada
+nhorellana;Agua de Valencia
+nhorellana;Blue Lagoon
+nhorellana;Bloody Mary
+nhorellana;Martini
+Gorgola22;Michelada
+Gorgola22;Bloody Mary
+Gorgola22;Manhattan
+Gorgola22;Sex On The Beach
+Gorgola22;Terremoto
+Gorgola22;Agua de Valencia
+Gorgola22;Martini
+movalle4;Michelada
+movalle4;Piña Colada
+MacarenaPaez;Michelada
+MacarenaPaez;Piña Colada
+MacarenaPaez;Blue Lagoon
+MacarenaPaez;Tequila
+MacarenaPaez;Manhattan
+MacarenaPaez;Martini
+lmpedreros;Michelada
+lmpedreros;Margarita
+lmpedreros;Tequila
+lmpedreros;Cosmopolitan
+lmpedreros;Agua de Valencia
+rociopereira;Michelada
+Coolgatty;Michelada
+Coolgatty;Terremoto
+fperezm12;Michelada
+fperezm12;Cosmopolitan
+fperezm12;Agua de Valencia
+jlperez6;Michelada
+jlperez6;Terremoto
+jlperez6;Martini
+jlperez6;Cosmopolitan
+Jairuru;Michelada
+Jairuru;Submarino
+Jairuru;Mojito Cubano
+Jairuru;Daiquiri
+acpopper;Michelada
+acpopper;Tequila
+mjretamales;Michelada
+mjretamales;Manhattan
+mjretamales;Sangria
+mjretamales;Sex On The Beach
+mjretamales;Cosmopolitan
+mjretamales;Blue Lagoon
+migueliic1005;Michelada
+Benjadef;Michelada
+Benjadef;Tequila
+Benjadef;Bloody Mary
+Benjadef;Mojito Cubano
+Benjadef;Submarino
+Simon-Icaro;Michelada
+Simon-Icaro;Agua de Valencia
+Simon-Icaro;Cosmopolitan
+rmrodriguez1;Michelada
+rmrodriguez1;Margarita
+rmrodriguez1;Cosmopolitan
+rmrodriguez1;Tequila
+BenjaminRubio;Michelada
+BenjaminRubio;Manhattan
+BenjaminRubio;Submarino
+BrianSaavL;Michelada
+BrianSaavL;Blue Lagoon
+BrianSaavL;Margarita
+BrianSaavL;Bloody Mary
+BrianSaavL;Tequila
+BrianSaavL;Cosmopolitan
+amyaranta;Michelada
+amyaranta;Martini
+amyaranta;Margarita
+amyaranta;Manhattan
+amyaranta;Tequila
+IriSalazar;Michelada
+IriSalazar;Margarita
+IriSalazar;Terremoto
+IriSalazar;Bloody Mary
+IriSalazar;Blue Lagoon
+tiarasilva;Michelada
+tiarasilva;Piña Colada
+tiarasilva;Terremoto
+casilva16;Michelada
+casilva16;Sex On The Beach
+casilva16;Margarita
+casilva16;Daiquiri
+casilva16;Submarino
+dasolari;Michelada
+dasolari;Martini
+dasolari;Margarita
+dasolari;Manhattan
+dasolari;Cosmopolitan
+dasolari;Agua de Valencia
+dasolari;Tequila
+rsommer1;Michelada
+rsommer1;Piña Colada
+#N/A;Michelada
+#N/A;Tequila
+#N/A;Martini
+viantirreau;Michelada
+viantirreau;Agua de Valencia
+viantirreau;Manhattan
+catorres8;Michelada
+catorres8;Tequila
+catorres8;Daiquiri
+catorres8;Sex On The Beach
+catorres8;Bloody Mary
+ploello;Michelada
+ploello;Margarita
+ploello;Terremoto
+danustilovsky;Michelada
+danustilovsky;Piña Colada
+danustilovsky;Bloody Mary
+danustilovsky;Submarino
+danustilovsky;Tequila
+danustilovsky;Martini
+javalenzuela3;Michelada
+Cfvalenzuelar;Michelada
+Cfvalenzuelar;Submarino
+Cfvalenzuelar;Manhattan
+Cfvalenzuelar;Piña Colada
+Cfvalenzuelar;Mojito Cubano
+Cfvalenzuelar;Daiquiri
+Cfvalenzuelar;Bloody Mary
+lucasvsj;Michelada
+lucasvsj;Sangria
+lucasvsj;Daiquiri
+lucasvsj;Sex On The Beach
+mjvarela;Michelada
+mjvarela;Tequila
+jjverschueren;Michelada
+jjverschueren;Daiquiri
+#N/A;Michelada
+#N/A;Tequila
+#N/A;Agua de Valencia
+#N/A;Martini
+jvillaweg;Michelada
+jvillaweg;Tequila
+jvillaweg;Cosmopolitan
+pbyoma;Michelada
+pbyoma;Piña Colada
+pbyoma;Terremoto
+pbyoma;Agua de Valencia
+pbyoma;Sangria
+pbyoma;Bloody Mary
+BenjaPrograma;Michelada
+BenjaPrograma;Blue Lagoon
+BenjaPrograma;Terremoto
+smacuna;Michelada
+smacuna;Margarita
+smacuna;Tequila
+smacuna;Blue Lagoon
+smacuna;Sex On The Beach
+aaguirrebena;Michelada
+aaguirrebena;Sangria
+aaguirrebena;Piña Colada
+cfalvarez2;Michelada
+cfalvarez2;Cosmopolitan
+cfalvarez2;Sangria
+cfalvarez2;Tequila
+cfalvarez2;Bloody Mary
+cfalvarez2;Blue Lagoon
+josebaboun;Michelada
+josebaboun;Margarita
+josebaboun;Submarino
+mfbarahona;Michelada
+mfbarahona;Daiquiri
+mfbarahona;Margarita
+lfbeltran;Michelada
+lfbeltran;Bloody Mary
+lfbeltran;Daiquiri
+lfbeltran;Margarita
+lfbeltran;Submarino
+lfbeltran;Cosmopolitan
+lfbeltran;Terremoto
+agbravo;Michelada
+agbravo;Sangria
+agbravo;Daiquiri
+ebrzovic;Michelada
+ebrzovic;Mojito Cubano
+ebrzovic;Manhattan
+ebrzovic;Bloody Mary
+ebrzovic;Piña Colada
+ebrzovic;Daiquiri
+snburgos;Michelada
+snburgos;Tequila
+snburgos;Daiquiri
+snburgos;Blue Lagoon
+snburgos;Terremoto
+sicalderon1210;Michelada
+icampusano;Michelada
+icampusano;Cosmopolitan
+icampusano;Blue Lagoon
+icampusano;Tequila
+icampusano;Martini
+icampusano;Piña Colada
+chris-carstens;Michelada
+chris-carstens;Mojito Cubano
+chris-carstens;Terremoto
+chris-carstens;Margarita
+chris-carstens;Piña Colada
+chris-carstens;Cosmopolitan
+dlcartagena;Michelada
+dlcartagena;Blue Lagoon
+dlcartagena;Martini
+angelacp;Michelada
+angelacp;Submarino
+angelacp;Piña Colada
+angelacp;Blue Lagoon
+angelacp;Agua de Valencia
+angelacp;Daiquiri
+rjcavada;Michelada
+rjcavada;Agua de Valencia
+rjcavada;Sex On The Beach
+rjcavada;Bloody Mary
+rjcavada;Margarita
+rjcavada;Tequila
+Marialuisaclaro;Michelada
+Marialuisaclaro;Agua de Valencia
+Marialuisaclaro;Sex On The Beach
+Marialuisaclaro;Blue Lagoon
+Marialuisaclaro;Daiquiri
+Marialuisaclaro;Martini
+Marialuisaclaro;Mojito Cubano
+paulicollantes;Michelada
+paulicollantes;Agua de Valencia
+paulicollantes;Margarita
+paulicollantes;Manhattan
+Dlcollao;Michelada
+Dlcollao;Mojito Cubano
+Dlcollao;Martini
+Dlcollao;Sex On The Beach
+Dlcollao;Submarino
+Dlcollao;Blue Lagoon
+Dlcollao;Agua de Valencia
+Mtcoloma;Michelada
+Mtcoloma;Submarino
+Mtcoloma;Daiquiri
+vcontreras2;Michelada
+vcontreras2;Daiquiri
+vcontreras2;Cosmopolitan
+pelao97;Michelada
+pelao97;Margarita
+PedroCueto;Michelada
+PedroCueto;Cosmopolitan
+PedroCueto;Terremoto
+PedroCueto;Martini
+jdiaztoledo;Michelada
+jdiaztoledo;Sex On The Beach
+jdiaztoledo;Tequila
+jdiaztoledo;Blue Lagoon
+jdiaztoledo;Piña Colada
+jcechavarri;Michelada
+jtescobar1;Michelada
+jtescobar1;Terremoto
+jtescobar1;Cosmopolitan
+agustinespildora;Michelada
+lucreciafdez;Michelada
+lucreciafdez;Piña Colada
+ninifdr;Michelada
+ninifdr;Submarino
+ninifdr;Tequila
+kelseyfranken;Michelada
+kelseyfranken;Agua de Valencia
+kelseyfranken;Submarino
+kelseyfranken;Manhattan
+thealexga98;Michelada
+thealexga98;Piña Colada
+SergioGazali;Michelada
+tsgonzalez;Michelada
+tsgonzalez;Agua de Valencia
+tsgonzalez;Daiquiri
+tsgonzalez;Blue Lagoon
+tsgonzalez;Manhattan
+tsgonzalez;Tequila
+tsgonzalez;Martini
+bmgonzalez;Michelada
+bmgonzalez;Sangria
+bmgonzalez;Margarita
+isiguelfand;Michelada
+isiguelfand;Submarino
+isiguelfand;Sex On The Beach
+isiguelfand;Margarita
+nicolasguridi;Michelada
+nicolasguridi;Submarino
+nicolasguridi;Sex On The Beach
+nicolasguridi;Sangria
+nicolasguridi;Margarita
+nicolasguridi;Tequila
+fhohlberg;Michelada
+NO TIENE;Michelada
+NO TIENE;Submarino
+NO TIENE;Tequila
+albertoinfante;Michelada
+albertoinfante;Blue Lagoon
+cjjouanne;Michelada
+cjjouanne;Manhattan
+cjjouanne;Sex On The Beach
+cjjouanne;Blue Lagoon
+cjjouanne;Agua de Valencia
+cjjouanne;Martini
+skarlezib;Michelada
+skarlezib;Submarino
+skarlezib;Agua de Valencia
+skarlezib;Daiquiri
+slecaros;Michelada
+slecaros;Sex On The Beach
+slecaros;Piña Colada
+slecaros;Manhattan
+slecaros;Martini
+nlecaros1;Michelada
+nlecaros1;Submarino
+nlecaros1;Blue Lagoon
+nlecaros1;Bloody Mary
+nlecaros1;Sex On The Beach
+nlecaros1;Mojito Cubano
+carajila;Michelada
+flolju;Michelada
+flolju;Margarita
+flolju;Terremoto
+flolju;Daiquiri
+flolju;Piña Colada
+flolju;Mojito Cubano
+flolju;Agua de Valencia
+juanfcolopez;Michelada
+daniellyonvald;Michelada
+daniellyonvald;Bloody Mary
+daniellyonvald;Sangria
+aamedinaj;Michelada
+aamedinaj;Mojito Cubano
+aamedinaj;Martini
+aamedinaj;Agua de Valencia
+aamedinaj;Margarita
+diegomendieta;Michelada
+diegomendieta;Margarita
+diegomendieta;Mojito Cubano
+diegomendieta;Agua de Valencia
+diegomendieta;Sex On The Beach
+stmorales;Michelada
+brayanmoreno;Michelada
+brayanmoreno;Manhattan
+brayanmoreno;Submarino
+JavierNarvaez;Michelada
+JavierNarvaez;Agua de Valencia
+JavierNarvaez;Bloody Mary
+JavierNarvaez;Manhattan
+JavierNarvaez;Mojito Cubano
+RodrigoNazar;Michelada
+roberto009;Michelada
+roberto009;Piña Colada
+roberto009;Mojito Cubano
+roberto009;Cosmopolitan
+roberto009;Daiquiri
+Istuan;Michelada
+Istuan;Mojito Cubano
+Istuan;Margarita
+Istuan;Martini
+CarlitosA2;Michelada
+CarlitosA2;Sex On The Beach
+porellanau;Michelada
+porellanau;Sex On The Beach
+porellanau;Blue Lagoon
+porellanau;Mojito Cubano
+porellanau;Manhattan
+porellanau;Sangria
+Camfernan;Michelada
+Camfernan;Terremoto
+Camfernan;Tequila
+Camfernan;Agua de Valencia
+Camfernan;Mojito Cubano
+Camfernan;Submarino
+AlejandroAOT;Michelada
+AlejandroAOT;Blue Lagoon
+AlejandroAOT;Manhattan
+jgparot;Michelada
+jgparot;Mojito Cubano
+jgparot;Cosmopolitan
+jgparot;Terremoto
+jgparot;Margarita
+jgparot;Martini
+InfiniteDreamX;Michelada
+InfiniteDreamX;Cosmopolitan
+InfiniteDreamX;Daiquiri
+InfiniteDreamX;Terremoto
+InfiniteDreamX;Martini
+InfiniteDreamX;Tequila
+InfiniteDreamX;Blue Lagoon
+tomasmetroy;Michelada
+tomasmetroy;Agua de Valencia
+tomasmetroy;Terremoto
+tomasmetroy;Sangria
+aphillipsb;Michelada
+aphillipsb;Margarita
+aphillipsb;Bloody Mary
+aphillipsb;Terremoto
+aphillipsb;Martini
+NatachaP;Michelada
+NatachaP;Tequila
+NatachaP;Bloody Mary
+NatachaP;Submarino
+NatachaP;Sangria
+pedro919;Michelada
+pedro919;Margarita
+Dirodriguez2;Michelada
+Dirodriguez2;Blue Lagoon
+ararojas;Michelada
+ararojas;Piña Colada
+ararojas;Submarino
+ararojas;Bloody Mary
+ararojas;Tequila
+ararojas;Daiquiri
+ararojas;Mojito Cubano
+jaromero6;Michelada
+jaromero6;Manhattan
+jaromero6;Martini
+jaromero6;Piña Colada
+jaromero6;Agua de Valencia
+bjruano;Michelada
+bjruano;Margarita
+bjruano;Sangria
+bjruano;Blue Lagoon
+bjruano;Submarino
+bjruano;Martini
+bjruano;Mojito Cubano
+Mesantacruz;Michelada
+csantiagopaz;Michelada
+csantiagopaz;Terremoto
+Seld0nn;Michelada
+Seld0nn;Tequila
+pablosteinmetz;Michelada
+pablosteinmetz;Sangria
+pablosteinmetz;Agua de Valencia
+pablosteinmetz;Martini
+pablosteinmetz;Blue Lagoon
+pablosteinmetz;Daiquiri
+pablosteinmetz;Sex On The Beach
+colorostrobl;Michelada
+colorostrobl;Mojito Cubano
+ftobar22;Michelada
+paulatorresfernandez;Michelada
+paulatorresfernandez;Manhattan
+paulatorresfernandez;Terremoto
+paulatorresfernandez;Martini
+paulatorresfernandez;Cosmopolitan
+jptorres1;Michelada
+jptorres1;Terremoto
+jptorres1;Agua de Valencia
+jptorres1;Piña Colada
+jptorres1;Martini
+jptorres1;Cosmopolitan
+FloValdes;Michelada
+FloValdes;Agua de Valencia
+FloValdes;Mojito Cubano
+FloValdes;Daiquiri
+FloValdes;Sex On The Beach
+mbvanwersch;Michelada
+mbvanwersch;Sex On The Beach
+mbvanwersch;Terremoto
+mbvanwersch;Martini
+mbvanwersch;Blue Lagoon
+gtvargas;Michelada
+gtvargas;Bloody Mary
+gtvargas;Mojito Cubano
+gtvargas;Cosmopolitan
+gtvargas;Blue Lagoon
+benjayousef97;Michelada
+benjayousef97;Tequila
+benjayousef97;Cosmopolitan
+benjayousef97;Piña Colada
+benjayousef97;Terremoto

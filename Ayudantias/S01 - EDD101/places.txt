@@ -1,0 +1,7 @@
+Los templos en Angkor,Camboya,PAW404,67890
+Machu Picchu,Perú,PAW202,32456
+Roma,Italia,PAW403,123040
+Londres,Inglaterra,PAW200,130203
+Buenos Aires,Argentina,PAW201,22022
+Madrid,España,PAW202,112121
+Osaka,Japón,PAW401,120202
