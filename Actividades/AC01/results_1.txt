@@ -1,0 +1,6 @@
+[Pokemon(nombre='Exeggutor', tipo='planta', max_solicitudes=7), Pokemon(nombre='Omastar', tipo='roca', max_solicitudes=1)]
+[Pokemon(nombre='Spearow', tipo='normal', max_solicitudes=7)]
+[Pokemon(nombre='Blastoise', tipo='agua', max_solicitudes=5)]
+[]
+[Pokemon(nombre='Exeggcute', tipo='planta', max_solicitudes=6)]
+[Pokemon(nombre='Caterpie', tipo='bicho', max_solicitudes=3), Pokemon(nombre='Golduck', tipo='agua', max_solicitudes=3), Pokemon(nombre='Starmie', tipo='agua', max_solicitudes=3)]

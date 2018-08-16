@@ -1,0 +1,6 @@
+[Pokemon(nombre='Tauros', tipo='normal', max_solicitudes=7)]
+[Pokemon(nombre='Golem', tipo='roca', max_solicitudes=6), Pokemon(nombre='Koffing', tipo='veneno', max_solicitudes=1), Pokemon(nombre='Seadra', tipo='agua', max_solicitudes=3)]
+[Pokemon(nombre='Lapras', tipo='agua', max_solicitudes=4)]
+[]
+[Pokemon(nombre='Rattata', tipo='normal', max_solicitudes=2)]
+[]
