@@ -1,0 +1,150 @@
+259316,Fantastic Beasts and Where to Find Them,43.012848,2016-11-16,Action
+198184,Chappie,7.463573,2015-03-04,Crime
+136799,Trolls,6.967698,2016-10-13,Adventure
+207932,Inferno,6.849927,2016-10-13,Thriller
+550,Fight Club,6.913413,1999-10-15,Drama
+324552,John Wick: Chapter 2,8.960315,2017-02-08,Thriller
+272,Batman Begins,7.213378,2005-06-14,Action
+585,Monsters Inc.,6.464373,2001-11-01,Fantasy
+19995,Avatar,8.754114,2009-12-10,Action
+198663,The Maze Runner,8.756701,2014-09-10,Action
+120,The Lord of the Rings: The Fellowship of the Ring,8.163032,2001-12-18,Adventure
+131634,The Hunger Games: Mockingjay - Part 2,5.851277,2015-11-18,Adventure
+98566,Teenage Mutant Ninja Turtles,8.688794,2014-08-07,Science Fiction
+340666,Nocturnal Animals,10.112654,2016-11-04,Drama
+284052,Doctor Strange,28.117132,2016-10-25,Action
+334541,Manchester by the Sea,7.017372,2016-11-18,Drama
+214756,Ted 2,5.813984,2015-06-25,Comedy
+209112,Batman v Superman: Dawn of Justice,10.260039,2016-03-23,Action
+293167,Kong: Skull Island,76.41363,2017-03-08,Science Fiction
+283366,Miss Peregrine's Home for Peculiar Children,18.57872,2016-09-28,Drama
+329865,Arrival,30.521758,2016-11-10,Drama
+12,Finding Nemo,7.642378,2003-05-30,Animation
+679,Aliens,5.730981,1986-07-18,Horror
+376660,The Edge of Seventeen,6.83872,2016-11-18,Comedy
+216015,Fifty Shades of Grey,5.981202,2015-02-11,Drama
+91314,Transformers: Age of Extinction,6.253452,2014-06-25,Science Fiction
+99861,Avengers: Age of Ultron,8.747303,2015-04-22,Action
+10020,Beauty and the Beast,6.889321,1991-11-12,Romance
+242582,Nightcrawler,8.218181,2014-10-23,Crime
+228150,Fury,14.26633,2014-10-15,War
+166426,Pirates of the Caribbean: Dead Men Tell No Tales,7.384263,2017-05-24,Action
+140607,Star Wars: The Force Awakens,10.981076,2015-12-15,Action
+285,Pirates of the Caribbean: At World's End,7.800176,2007-05-19,Adventure
+286217,The Martian,7.687962,2015-09-30,Drama
+22,Pirates of the Caribbean: The Curse of the Black Pearl,11.981938,2003-07-09,Adventure
+76757,Jupiter Ascending,8.405976,2015-02-04,Science Fiction
+313369,La La Land,8.001106,2016-09-12,Comedy
+118340,Guardians of the Galaxy,22.684227,2014-07-30,Action
+346685,The Girl on the Train,6.502827,2016-10-05,Drama
+14564,Rings,25.052685,2017-02-01,Horror
+277,Underworld,8.309146,2003-09-19,Fantasy
+671,Harry Potter and the Philosopher's Stone,7.558342,2001-11-16,Adventure
+43074,Ghostbusters,6.612043,2016-07-14,Action
+332210,Storks,7.048745,2016-09-22,Animation
+425,Ice Age,8.284234,2002-03-10,Animation
+381288,Split,24.261434,2017-01-19,Horror
+9806,The Incredibles,5.813134,2004-11-05,Action
+334543,Lion,6.961866,2016-11-24,Drama
+122917,The Hobbit: The Battle of the Five Armies,12.236899,2014-12-10,Action
+150540,Inside Out,7.076405,2015-06-09,Comedy
+101299,The Hunger Games: Catching Fire,6.064087,2013-11-15,Science Fiction
+291805,Now You See Me 2,6.742778,2016-06-02,Action
+68737,Seventh Son,6.415263,2014-12-12,Adventure
+419430,Get Out,9.807999,2017-02-24,Comedy
+311324,The Great Wall,11.953133,2016-12-16,Action
+240832,Lucy,7.817199,2014-07-14,Action
+363676,Sully,6.388904,2016-09-07,Drama
+47971,xXx: Return of Xander Cage,9.305658,2017-01-13,Action
+294254,Maze Runner: The Scorch Trials,5.987531,2015-09-09,Action
+105,Back to the Future,6.98611,1985-07-03,Adventure
+49051,The Hobbit: An Unexpected Journey,6.01714,2012-11-26,Adventure
+38810,Dogtooth,5.872569,2009-06-01,Drama
+278154,Ice Age: Collision Course,7.275883,2016-06-23,Adventure
+673,Harry Potter and the Prisoner of Azkaban,6.992781,2004-05-31,Adventure
+280,Terminator 2: Judgment Day,6.100839,1991-07-01,Action
+245891,John Wick,24.011375,2014-10-22,Action
+155,The Dark Knight,9.356672,2008-07-16,Drama
+189,Sin City: A Dame to Kill For,6.381578,2014-08-20,Crime
+181533,Night at the Museum: Secret of the Tomb,6.035925,2014-12-17,Adventure
+11,Star Wars,7.867793,1977-05-25,Adventure
+376867,Moonlight,9.346346,2016-10-21,Drama
+24428,The Avengers,8.091018,2012-04-25,Science Fiction
+1726,Iron Man,7.292687,2008-04-30,Action
+395992,Life,14.802872,2017-03-23,Horror
+278927,The Jungle Book,6.496464,2016-04-07,Adventure
+72190,World War Z,5.7201,2013-06-20,Action
+76338,Thor: The Dark World,6.929765,2013-10-29,Action
+76341,Mad Max: Fury Road,27.86788,2015-05-13,Action
+205596,The Imitation Game,10.033663,2014-11-14,History
+257344,Pixels,7.556508,2015-07-16,Action
+307081,Southpaw,6.736218,2015-06-15,Action
+254128,San Andreas,8.141364,2015-05-27,Action
+150689,Cinderella,6.255993,2015-03-12,Romance
+49026,The Dark Knight Rises,7.303767,2012-07-16,Action
+122,The Lord of the Rings: The Return of the King,6.197896,2003-12-01,Adventure
+302946,The Accountant,10.191788,2016-10-14,Crime
+135397,Jurassic World,49.354436,2015-06-09,Action
+296524,Deepwater Horizon,5.966517,2016-09-29,Action
+263115,Logan,157.275668,2017-02-28,Action
+341174,Fifty Shades Darker,27.078764,2017-02-08,Drama
+109445,Frozen,7.563299,2013-11-27,Animation
+14160,Up,7.456567,2009-05-13,Animation
+603,The Matrix,6.630537,1999-03-30,Action
+281957,The Revenant,8.547333,2015-12-25,Western
+158852,Tomorrowland,8.749586,2015-05-19,Action
+281007,The Summer I Turned 15,6.205629,1976-03-04,Drama
+241554,Run All Night,5.719267,2015-03-11,Action
+324786,Hacksaw Ridge,12.343599,2016-10-07,Drama
+244786,Whiplash,9.408097,2014-10-10,Drama
+274870,Passengers,15.3741,2016-12-21,Adventure
+58,Pirates of the Caribbean: Dead Man's Chest,7.648883,2006-06-20,Adventure
+188927,Star Trek Beyond,6.093466,2016-07-07,Action
+348,Alien,5.783461,1979-05-25,Horror
+356305,Why Him?,16.928488,2016-12-22,Comedy
+295693,The Boss Baby,12.552571,2017-03-23,Animation
+121,The Lord of the Rings: The Two Towers,6.374775,2002-12-18,Adventure
+194662,Birdman,8.096078,2014-08-27,Drama
+345920,Collateral Beauty,7.690629,2016-12-06,Drama
+210577,Gone Girl,9.102218,2014-10-01,Mystery
+87101,Terminator Genisys,12.400586,2015-06-23,Science Fiction
+264660,Ex Machina,5.887713,2015-01-21,Drama
+119450,Dawn of the Planet of the Apes,8.195017,2014-06-26,Science Fiction
+68718,Django Unchained,6.878338,2012-12-25,Drama
+27205,Inception,8.411188,2010-07-14,Action
+297761,Suicide Squad,11.442708,2016-08-02,Action
+343611,Jack Reacher: Never Go Back,8.192746,2016-10-19,Action
+269149,Zootopia,10.603307,2016-02-11,Animation
+278,The Shawshank Redemption,7.474345,1994-09-23,Drama
+436398,Dead Over Heels: An Aurora Teagarden Mystery,6.969082,2017-03-19,TV Movie
+15206,The Mother of Tears,19.591843,2007-09-06,Horror
+328111,The Secret Life of Pets,6.668656,2016-06-18,Adventure
+211672,Minions,11.594164,2015-06-17,Family
+127585,X-Men: Days of Future Past,9.358546,2014-05-15,Action
+321612,Beauty and the Beast,110.582487,2017-03-15,Fantasy
+597,Titanic,6.591753,1997-11-18,Drama
+177572,Big Hero 6,9.883617,2014-10-24,Adventure
+131631,The Hunger Games: Mockingjay - Part 1,10.104705,2014-11-18,Science Fiction
+10195,Thor,7.873816,2011-04-21,Adventure
+246655,X-Men: Apocalypse,12.347333,2016-05-18,Action
+293660,Deadpool,16.097749,2016-02-09,Action
+271110,Captain America: Civil War,22.28523,2016-04-27,Action
+324668,Jason Bourne,5.7055,2016-07-27,Action
+157336,Interstellar,28.708868,2014-11-05,Adventure
+262504,Allegiant,6.494284,2016-03-09,Adventure
+102899,Ant-Man,6.971403,2015-07-14,Science Fiction
+388399,Patriots Day,11.092789,2016-12-21,Drama
+121856,Assassin's Creed,20.855296,2016-12-21,Action
+424,Schindler's List,6.182218,1993-11-29,Drama
+680,Pulp Fiction,6.318769,1994-10-13,Thriller
+218,The Terminator,5.920723,1984-10-26,Action
+68735,Warcraft,5.774444,2016-05-25,Action
+302401,Snowden,10.735928,2016-09-15,Drama
+260346,Taken 3,7.988016,2015-01-01,Action
+315837,Ghost in the Shell,9.064142,2017-03-29,Action
+384682,Office Christmas Party,8.662977,2016-12-05,Comedy
+1865,Pirates of the Caribbean: On Stranger Tides,7.540051,2011-05-14,Adventure
+168259,Furious 7,7.94868,2015-04-01,Action
+262500,Insurgent,9.135343,2015-03-18,Adventure
+238,The Godfather,5.798605,1972-03-14,Drama
+807,Se7en,5.697074,1995-09-22,Crime
