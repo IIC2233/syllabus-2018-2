@@ -4,7 +4,7 @@ about: Usar este template antes de hacer una issue
 
 ---
 
-Antes de hacer proceder a hacer la issue, pregúntate: 
+Antes de proceder a hacer la issue, pregúntate: 
 
 1. ¿Está esto en el [feedback](https://docs.google.com/spreadsheets/d/1KIr7m7c84R1EMRuSgVwRFfPoA1tFHWmwKtauQ1TxBIs/edit#gid=0)?
 
