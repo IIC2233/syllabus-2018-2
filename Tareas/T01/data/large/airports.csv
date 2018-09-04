@@ -1,4 +1,4 @@
-﻿icao,type,latitude_deg,longitude_deg,iso_country
+﻿icao,type,lat,long,iso_country
 00A,heliport,40.07080078125,-74.93360137939453,US
 00AA,small_airport,38.704022,-101.473911,US
 00AK,small_airport,59.94919968,-151.695999146,US
