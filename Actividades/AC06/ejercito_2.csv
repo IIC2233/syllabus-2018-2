@@ -1,0 +1,18 @@
+general,manos de oso,túnica de destreza,diadema de hada
+teniente,dientes de sable,túnica de destreza,varita espectral,varita de sauco
+teniente,varita de sauco,bastón mágico,varita espectral,túnica de fuerza,varita convencional
+mayor,pentagrama,manos de oso,varita convencional,bastón mágico,collar de dientes,túnica gris
+mayor,manos de oso,varita de sauco,collar de dientes,varita convencional,dientes de sable,túnica de fuerza
+mayor,baratija de cristal,túnica de destreza,varita convencional,collar de dientes
+capitan,túnica gris,collar de dientes,diadema de hada,varita espectral
+capitan,manos de oso,baratija de cristal,túnica de destreza
+capitan,diadema de hada,túnica de fuerza,varita de sauco,bastón mágico,collar de dientes,dientes de sable
+capitan,baratija de cristal,dientes de sable,varita de sauco,túnica de agilidad,bastón mágico,diadema de hada,varita convencional
+soldado,bastón mágico,manos de oso,varita de sauco,túnica de fuerza,collar de dientes,baratija de cristal,varita convencional
+soldado,túnica de fuerza,dientes de sable,pentagrama,varita de sauco,varita espectral,diadema de hada
+soldado,manos de oso,varita convencional,túnica de agilidad,varita de sauco,varita espectral
+soldado,varita espectral,túnica de agilidad,varita de sauco,varita convencional,pentagrama
+soldado,dientes de sable,varita convencional,varita de sauco,túnica de agilidad
+soldado,bastón mágico,pentagrama,varita de sauco,manos de oso,dientes de sable,túnica gris,diadema de hada
+soldado,bastón mágico,varita de sauco,túnica de fuerza
+soldado,collar de dientes,bastón mágico,varita de sauco,túnica de fuerza,diadema de hada

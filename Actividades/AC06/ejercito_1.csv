@@ -1,0 +1,18 @@
+general,armadura de cuero,dagas,tótem,arco y flecha,espada
+teniente,armadura de cuero,espada,espada larga
+teniente,espada,ropa,arco y flecha,talismán,veneno
+mayor,collar,tótem,dagas,martillo de guerra,escudo,espada larga,armadura de cuero
+mayor,armadura de placa,arco y flecha,espada,escudo
+mayor,espada larga,talismán,espada,martillo de guerra,collar,armadura de placa
+capitan,espada,espada larga,escudo,collar,talismán,ropa
+capitan,armadura de cuero,escudo
+capitan,armadura de cuero,tótem,martillo de guerra,talismán
+capitan,ropa,arco y flecha,espada larga
+soldado,arco y flecha,tótem,espada larga,armadura de cuero,martillo de guerra
+soldado,espada larga,veneno,ropa,arco y flecha,tótem
+soldado,cota de malla,espada
+soldado,armadura de cuero,veneno,martillo de guerra,espada larga,escudo
+soldado,dagas,arco y flecha,armadura de cuero,collar,espada larga,veneno
+soldado,cota de malla,collar,espada larga,martillo de guerra,espada
+soldado,armadura de cuero,arco y flecha,collar,espada
+soldado,escudo,armadura de cuero,arco y flecha
