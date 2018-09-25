@@ -32,9 +32,9 @@ Si no se indica(n) los archivos principales que son necesarios para ejecutar la 
 
 ## Modularización (5 décimas) :package: 
 
-* **5 décimas** si uno o más archivos exceden las 800 líneas de código.
+* **5 décimas** si uno o más archivos exceden las 800 líneas de código o es posible haberlo segmentado en otros archivos.
 
-* **3 décimas** si 3 o más archivos **exceden 600 líneas** y es posible haberlo segmentado en otros archivos
+* **3 décimas** si 3 o más archivos **exceden 600 líneas** o es posible haberlo segmentado en otros archivos.
 
 
 ## Formato de entrega (5 décimas) :inbox_tray: 
