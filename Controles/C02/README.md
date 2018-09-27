@@ -144,7 +144,7 @@ class A:
     self._b = valor
 
   def metodo(self):
-    return self._a * self._b
+    return self.a * self.b
 
 class B(A):
 
@@ -154,7 +154,7 @@ class B(A):
 
   @accion('el resultado es:')
   def metodo(self):
-    return self._a * self._b + self._c
+    return self.a * self.b + self._c
 
 x = A(3, 2)
 y = B(3, 2, 33)
@@ -190,7 +190,7 @@ class A:
     self._b = valor
 
   def metodo(self):
-    return self._a * self._b
+    return self.a * self.b
 
 class B(A):
 
@@ -200,7 +200,7 @@ class B(A):
 
   @accion('el resultado es:')
   def metodo(self):
-    return self._a * self._b + self._c
+    return self.a * self.b + self._c
 
 x = A(3, 2)
 y = B(3, 2, 33)
@@ -237,7 +237,7 @@ class A:
     self._b = valor
 
   def metodo(self):
-    return self._a + self._b
+    return self.a + self.b
 
 class B(A):
 
@@ -247,7 +247,7 @@ class B(A):
 
   @accion('el resultado es:')
   def metodo(self):
-    return (self._a + self._b) * self._c
+    return (self.a + self.b) * self._c
 
 x = A(3, 2)
 y = B(30, 2, 2)
