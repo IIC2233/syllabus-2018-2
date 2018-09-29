@@ -1,0 +1,6 @@
+Hugo Navarrete;Masculino;11961062-1;IIC2233;0;Necesito ese curso
+Bastian Mavrakis;Reptiliano;18918973-7;IIC 2515;1;Necesito ese curso
+Stephanie Chau;Femenino;19.657.850-1;IIE 3115;1;Es un curso muy dificil, casi para koreanos por lo que quiero tomarlo para demostrar que es trivial
+Marcelo Lagos;Masculino;19.644.9116;IIC2233;9;Me canse de hablar de terremotos, ahora quiero simularlos
+Fernando Pieressa;Sin definir;19244725-9;IIC2233;section 1;Quiero volver a tomarlo
+Hugo Navarrete;Error 404-Not found;11961062-1;IIC2115;todas;Dicen que es mejor que avanzada o.o
