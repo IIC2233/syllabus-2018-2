@@ -4,17 +4,6 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------|
-|**K202 00-B**|Faalfaro|Fernando Alfaro|||
-|**K202 00-C**|mfarol|Matthias Frohlich|||
-|**K202 00-D**|jasanchez1|Joaquin Sanchez|||
-|**K202 00-E**|BenjaCastillo|Benjamín Castillo|||
-|**K202 00-F**|msmendoza|Mauro Mendoza|||
-|**K202 00-G**|trinivargas|María Vargas|||
-|**K202 00-H**|Bizama|Javier Bizama|||
-|**K202 00-I**|rafafdz|Rafael Fernández|||
-|**K202 00-J**|miguelramirezv|Miguel Ramírez|||
-|**K202 00-K**|Cadagan|Martin Cadagan|||
-|**K202 00-L**|fabarros|Francisco Barros|||
 |**K202 01-A**|ejherrer|Eduardo Herrera|||
 |**K202 01-B**|ncasassus|Nicolás Casassus|||
 |**K202 01-C**|Etienne99|Etienne Lefevre|||
@@ -106,13 +95,17 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**K202 08-I**|gejohow|German Johow|||
 |**K202 08-J**|Mahund|Michael Hund|||
 |**K202 08-K**|amartinezsilberstein|Ariel Martínez|||
-|**A1 00-B**|Michelmagna|Michel Magna|||
-|**A1 00-C**|Tomasalvarez15|Tomas Alvarez|||
-|**A1 00-D**|srhernandez1|Sebastián Hernández|||
-|**A1 00-E**|jjverschueren|Juan Verschueren|||
-|**A1 00-F**|tfflores|Tomás Flores|||
-|**A1 00-G**|javalenzuela3|Joaquín Valenzuela|||
-|**A1 00-H**|VicenteVicenteVicenteVicenteVicente|Vicente Calisto|||
+|**K202 09-B**|Faalfaro|Fernando Alfaro|||
+|**K202 09-C**|mfarol|Matthias Frohlich|||
+|**K202 09-D**|jasanchez1|Joaquin Sanchez|||
+|**K202 09-E**|BenjaCastillo|Benjamín Castillo|||
+|**K202 09-F**|msmendoza|Mauro Mendoza|||
+|**K202 09-G**|trinivargas|María Vargas|||
+|**K202 09-H**|Bizama|Javier Bizama|||
+|**K202 09-I**|rafafdz|Rafael Fernández|||
+|**K202 09-J**|miguelramirezv|Miguel Ramírez|||
+|**K202 09-K**|Cadagan|Martin Cadagan|||
+|**K202 09-L**|fabarros|Francisco Barros|||
 |**A1 01-A**|hbkim94|Hue Kim|||
 |**A1 01-B**|dasolari|Diego Solari|||
 |**A1 01-C**|lucasvsj|Lucas Van Sint Jan|||
@@ -200,18 +193,13 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**A1 11-E**|vtespinosa|Vicente Espinosa|||
 |**A1 11-F**|rmrodriguez1|Rosario Rodriguez|||
 |**A1 11-G**|vahojas|Vicente Hojas|||
-|**CS204 00-B**|juanfcolopez|Juan Lopez|||
-|**CS204 00-C**|bmgonzalez|Bernardita González|||
-|**CS204 00-D**|Dlcollao|Diego Collao|||
-|**CS204 00-E**|cjjouanne|Carlos Jouanne|||
-|**CS204 00-F**|RodrigoNazar|Rodrigo Nazar|||
-|**CS204 00-G**|pablosteinmetz|Pablo Steinmetz|||
-|**CS204 00-H**|sicalderon1210|Sebastián Calderón|||
-|**CS204 00-I**|lucreciafdez|Lucrecia Fernandez|||
-|**CS204 00-J**|smacuna|Sebastián Acuña|||
-|**CS204 00-K**|tomasmetroy|Tomas Perez|||
-|**CS204 00-L**|InfiniteDreamX|Jorge Pérez|||
-|**CS204 00-M**|nicolasguridi|Nicolas Guridi|||
+|**A1 12-B**|Michelmagna|Michel Magna|||
+|**A1 12-C**|Tomasalvarez15|Tomas Alvarez|||
+|**A1 12-D**|srhernandez1|Sebastián Hernández|||
+|**A1 12-E**|jjverschueren|Juan Verschueren|||
+|**A1 12-F**|tfflores|Tomás Flores|||
+|**A1 12-G**|javalenzuela3|Joaquín Valenzuela|||
+|**A1 12-H**|VicenteVicenteVicenteVicenteVicente|Vicente Calisto|||
 |**CS204 01-A**|stmorales|Sebastian Morales|||
 |**CS204 01-B**|Seld0nn|Matías Soto|||
 |**CS204 01-C**|PedroCueto|Pedro Cueto|||
@@ -276,3 +264,15 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**CS204 05-J**|mbvanwersch|María Van Wersch|||
 |**CS204 05-K**|SergioGazali|Sergio Gazali|||
 |**CS204 05-L**|snburgos|Sebastián Burgos|||
+|**CS204 06-B**|juanfcolopez|Juan Lopez|||
+|**CS204 06-C**|bmgonzalez|Bernardita González|||
+|**CS204 06-D**|Dlcollao|Diego Collao|||
+|**CS204 06-E**|cjjouanne|Carlos Jouanne|||
+|**CS204 06-F**|RodrigoNazar|Rodrigo Nazar|||
+|**CS204 06-G**|pablosteinmetz|Pablo Steinmetz|||
+|**CS204 06-H**|sicalderon1210|Sebastián Calderón|||
+|**CS204 06-I**|lucreciafdez|Lucrecia Fernandez|||
+|**CS204 06-J**|smacuna|Sebastián Acuña|||
+|**CS204 06-K**|tomasmetroy|Tomas Perez|||
+|**CS204 06-L**|InfiniteDreamX|Jorge Pérez|||
+|**CS204 06-M**|nicolasguridi|Nicolas Guridi|||
