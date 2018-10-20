@@ -6,6 +6,8 @@ Esta guía está diseñada para ayudar a guiar en el proceso de corrección de u
 
 El código que corregirás es ajeno, por lo que primero revisa si es seguro ejecutarlo. Utilizando un editor de texto (VSCode, Atom, Pycharm, etc), busca en el código las _keyword_ `eval`, `exec` y `pickle` (:skull:). Si las encuentras, evita ejecutar el código y reporta la situación al mail iic2233@ing.puc.cl.
 
+**Ojo**, en los contenidos y la ayudantía se puede ver la utilización del método `exec_()` perteneciente a una instancia de `QApplication`. En este caso **no corresponde descuento**.
+
 Si no están estas funciones en el código, entonces continúa :).
 
 ## Prueba el código
@@ -31,6 +33,12 @@ def funcion_incompleta():
 Si los errores son del tipo `IdentationError`, `SyntaxError`, probablemente son fáciles de arreglar y debes hacerlo, para poder continuar con la corrección. 
 
 Lo importante es que si la Actividad no corre por sí sola, ¡no merece necesariamente un 1.0 inmediato! La idea es buscar corregir lo más que se pueda para no perjudicar al alumno. Si tienen dudas, pueden hacer una _Issue_ :wink:. 
+
+### Acerca de los Sprites
+
+En la actividad se les dio la carpeta `sprites` con los diferentes archivos de imagen para hacer la actividad. Si sus compañeros no subieron las imágenes u ocuparon otra ruta, **no merecen descuento**, sólo cambia la ruta o deja las imágenes donde la persona que están evaluando las está buscando.
+
+Un tip sería dejar las imágenes tanto en la raíz como en la carpeta `sprites` para no tener problemas. :wink: 
 
 ## Repasa la Actividad
 
