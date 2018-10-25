@@ -31,7 +31,7 @@ def crear_carpetas_ocultas(cwd=os.getcwd(),
             try:
                 if directorio in nombres_dir_:
                     crear_carpetas_ocultas(
-                        cwd + "/" + directorio,
+                        os.path.join(cwd, directorio),
                         profundidad_actual=profundidad_actual)
             except OSError as err:
                 print(err, "no debió pasar, revirsar código")
@@ -41,11 +41,11 @@ def crear_archivos_error(cwd=os.getcwd(), lista_dir=None):
     if lista_dir is None:
         lista_dir = nombres_dir_
     if not os.listdir(cwd):
-        with open(cwd + "/error.asd", "w") as file:
+        with open(os.path.join(cwd, "error.asd"), "w") as file:
             file.write("error" * int(randint(0, 1000)))
     for directorio in os.listdir(cwd):
         if directorio in lista_dir:
-            crear_archivos_error(cwd + "/" + directorio)
+            crear_archivos_error(os.path.join(cwd, directorio))
 
 
 def mover_archivos(cwd=os.getcwd(),
@@ -56,8 +56,8 @@ def mover_archivos(cwd=os.getcwd(),
     for archivo in lista_archivos:
         move_to = cwd
         for _ in range(profundidad_lim):
-            move_to += "/" + choice(nombres_dir_)
-        shutil.move("{}/{}".format(cwd, archivo), "{}/{}".format(
+            move_to = os.path.join(move_to, choice(nombres_dir_))
+        shutil.move(os.path.join(cwd, archivo), os.path.join(
             move_to, archivo))
 
 
