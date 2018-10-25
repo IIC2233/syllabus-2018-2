@@ -4,17 +4,6 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------|
-|**K202 00-B**|Saveliz|Sebastian Veliz|||
-|**K202 00-C**|Faalfaro|Fernando Alfaro|||
-|**K202 00-D**|mvgil|María Gil|||
-|**K202 00-E**|cjortuzar|Clemente Ortúzar|||
-|**K202 00-F**|jasubercaseaux|José Subercaseaux|||
-|**K202 00-G**|Nacho111|Juan Salas|||
-|**K202 00-H**|lgolborne|Laurence Golborne|||
-|**K202 00-I**|jmsilvas|Jose Silva|||
-|**K202 00-J**|sopadeoliva|Sol Covacich|||
-|**K202 00-K**|Conjo1|Nicolás Cornejo|||
-|**K202 00-L**|BFFV|Benjamín Farías|||
 |**K202 01-A**|cpgarrido|Catalina Garrido|||
 |**K202 01-B**|sebaparechev|Sebastian Paredes|||
 |**K202 01-C**|martucoss|Martín Meza|||
@@ -106,13 +95,17 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**K202 08-I**|alexaptib|Alex Apt|||
 |**K202 08-J**|cristianhdez|Cristian Hernandez|||
 |**K202 08-K**|BSamilla|Barbara Samilla|||
-|**A1 00-B**|Tomasalvarez15|Tomas Alvarez|||
-|**A1 00-C**|jjverschueren|Juan Verschueren|||
-|**A1 00-D**|NicolasCastillo24|Nicolás Castillo|||
-|**A1 00-E**|lucasvsj|Lucas Van Sint Jan|||
-|**A1 00-F**|denisecariaga|Denise Cariaga|||
-|**A1 00-G**|mjesus97|Maria Lavin|||
-|**A1 00-H**|baaldana|Benjamin Aldana|||
+|**K202 09-B**|Saveliz|Sebastian Veliz|||
+|**K202 09-C**|Faalfaro|Fernando Alfaro|||
+|**K202 09-D**|mvgil|María Gil|||
+|**K202 09-E**|cjortuzar|Clemente Ortúzar|||
+|**K202 09-F**|jasubercaseaux|José Subercaseaux|||
+|**K202 09-G**|Nacho111|Juan Salas|||
+|**K202 09-H**|lgolborne|Laurence Golborne|||
+|**K202 09-I**|jmsilvas|Jose Silva|||
+|**K202 09-J**|sopadeoliva|Sol Covacich|||
+|**K202 09-K**|Conjo1|Nicolás Cornejo|||
+|**K202 09-L**|BFFV|Benjamín Farías|||
 |**A1 01-A**|hbkim94|Hue Kim|||
 |**A1 01-B**|MMeisters|Martín Meister|||
 |**A1 01-C**|migueliic1005|Miguel Robles|||
@@ -200,18 +193,13 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**A1 11-E**|RobinCuevas|Robin Cuevas|||
 |**A1 11-F**|fpferrer|Florencia Ferrer|||
 |**A1 11-G**|VicenteVicenteVicenteVicenteVicente|Vicente Calisto|||
-|**CS204 00-B**|Camfernan|Byron Oyanadel|||
-|**CS204 00-C**|pedro919|Pedro Rioja|||
-|**CS204 00-D**|csantiagopaz|Caua Santiago-Paz|||
-|**CS204 00-E**|NatachaP|Natacha Piña|||
-|**CS204 00-F**|pelao97|Juan Correa|||
-|**CS204 00-G**|thealexga98|Alexander Galleguillos|||
-|**CS204 00-H**|sicalderon1210|Sebastián Calderón|||
-|**CS204 00-I**|jaromero6|Juan Romero|||
-|**CS204 00-J**|josebaboun|José Baboun|||
-|**CS204 00-K**|tsgonzalez|Tomás González|||
-|**CS204 00-L**|jcechavarri|Juan Echavarri|||
-|**CS204 00-M**|Mtcoloma|Matias Coloma|||
+|**A1 12-B**|Tomasalvarez15|Tomas Alvarez|||
+|**A1 12-C**|jjverschueren|Juan Verschueren|||
+|**A1 12-D**|NicolasCastillo24|Nicolás Castillo|||
+|**A1 12-E**|lucasvsj|Lucas Van Sint Jan|||
+|**A1 12-F**|denisecariaga|Denise Cariaga|||
+|**A1 12-G**|mjesus97|Maria Lavin|||
+|**A1 12-H**|baaldana|Benjamin Aldana|||
 |**CS204 01-A**|stmorales|Sebastian Morales|||
 |**CS204 01-B**|diegomendieta|Diego Mendieta|||
 |**CS204 01-C**|PedroCueto|Pedro Cueto|||
@@ -276,3 +264,15 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**CS204 05-J**|nicolasguridi|Nicolas Guridi|||
 |**CS204 05-K**|jtescobar1|José Escobar|||
 |**CS204 05-L**|Marialuisaclaro|Maria Claro|||
+|**CS204 06-B**|Camfernan|Byron Oyanadel|||
+|**CS204 06-C**|pedro919|Pedro Rioja|||
+|**CS204 06-D**|csantiagopaz|Caua Santiago-Paz|||
+|**CS204 06-E**|NatachaP|Natacha Piña|||
+|**CS204 06-F**|pelao97|Juan Correa|||
+|**CS204 06-G**|thealexga98|Alexander Galleguillos|||
+|**CS204 06-H**|sicalderon1210|Sebastián Calderón|||
+|**CS204 06-I**|jaromero6|Juan Romero|||
+|**CS204 06-J**|josebaboun|José Baboun|||
+|**CS204 06-K**|tsgonzalez|Tomás González|||
+|**CS204 06-L**|jcechavarri|Juan Echavarri|||
+|**CS204 06-M**|Mtcoloma|Matias Coloma|||
