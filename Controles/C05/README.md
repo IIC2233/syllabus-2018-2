@@ -17,12 +17,12 @@
    ***Justificación***: recibe cualquier tipo de objeto que pueda ser interpretado como `int` o bien implemente el método `__index__`
 5. Un objeto del tipo `bytes` puede tener un largo mayor a 256 elementos.
    **R: Verdadero**
-7. Al crear una subclase de `threading.Thread`, se debe implementar lo que se ejecutará en el método `start`.
+6. Al crear una subclase de `threading.Thread`, se debe implementar lo que se ejecutará en el método `start`.
    **R: Falso** 
    ***Justificación***: Se debe implementar el método `run`.
-9. Un _thread_ _daemon_ se deja de ejecutar cuando el _thread_ principal termina.
+7. Un _thread_ _daemon_ se deja de ejecutar cuando el _thread_ principal termina.
    **R: Verdadero**
-9. Un _deadlock_ se produce solamente cuando se usan _locks_.
+8. Un _deadlock_ se produce solamente cuando se usan _locks_.
    **R: Falso**
    ***Justificación***: Puede producirse usando cualquier primitiva de sincronización, incluyendo _Events_.
 
@@ -72,13 +72,13 @@ Además, se resta un bit correcto por cada bit extra usado.
 ## Lectura de código(1,5 + 0,5(bonus) puntos)
 ## Resumen Formas
 
-+ [Forma A: “El papá de los helados”](#codA)
-+ [Forma B: “La tía de los helados”](#codB)
-+ [Forma C: “La mamá de los helados”](#codA)
++ Forma A: “El papá de los helados”
++ Forma B: “La tía de los helados”
++ Forma C: “La mamá de los helados”
 
 
-### <a name="codA"></a> Forma A
-```python=
+### Forma A 
+```python
 from os.path import basename
 
 
@@ -104,7 +104,7 @@ print(type(decodificado))
 print(decodificado) # 0,5 pts de bonus
 ```
 #### Output
-```bash=
+```bash
 'No se encontró el archivo'     => 0.2 (correcto/incorrecto)
 'Leyendo G'     => 0.3 si está correcta. 0.2 si en vez de ‘G’ da el path completo.
 'No se encontró el archivo'    => 0.2  (correcto/incorrecto)
@@ -114,8 +114,8 @@ print(decodificado) # 0,5 pts de bonus
 El pap de los helados    => 0.5 bonus: correcto / incorrecto
 ```
 
-### <a name="codB"></a> Forma B 
-```python=
+###  Forma B 
+```python
 from os.path import basename
 
 
@@ -141,7 +141,7 @@ print(type(decodificado))
 print(decodificado) # 0,5 pts de bonus
 ```
 #### Output
-```bash=
+```bash
 'Leyendo K'    => 0.3 si está correcta. 0.2 si en vez de ‘K’ da el path completo.
 'No se encontró el archivo'    => 0.2 (correcto/incorrecto)
 'No se encontró el archivo'    => 0.2 (correcto/incorrecto)
@@ -151,8 +151,8 @@ print(decodificado) # 0,5 pts de bonus
 La ta de los helados    => 0.5 bonus: correcto / incorrecto
 
 ```
-### <a name="codC"></a> Forma C
-```python=
+###  Forma C
+```python
 from os.path import basename
 
 
@@ -178,7 +178,7 @@ print(type(decodificado))
 print(decodificado) # 0,5 pts de bonus
 ```
 #### Output
-```bash=
+```bash
 'No se encontró el archivo'     => 0.2 (correcto/incorrecto)
 'Leyendo G'     => 0.3 si está correcta. 0.2 si en vez de ‘G’ da el path completo.
 'No se encontró el archivo'    => 0.2  (correcto/incorrecto)
