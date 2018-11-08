@@ -1,0 +1,24 @@
+{"choripan": {"nombre": "choripan",
+  "ingredientes": [
+      "longaniza", "marraqueta", "zapatilla"
+  ],
+  "alinos": [
+      "pebre", "mayonesa", "salsa verde"
+  ]
+  },
+"choriqueso": {"nombre": "choriqueso",
+    "ingredientes": [
+        "longaniza", "marraqueta"
+    ],
+    "nivel_preparacion":10.0,
+    "alinos": [
+        "pebre", "mayonesa", "salsa verde"
+    ],
+    "dummy_attr": 45234234
+},
+"comida": {"nombre": "pan",
+     "ingredientes": ["huevo", "harina", "agua"],
+     "alinos": [],
+     "nivel_preparacion":2.4,
+     "fecha_ingreso": "2018-09-11-17-09-33"}
+}

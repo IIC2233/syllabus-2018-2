@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="pykitchen">
+    <file>pykitchen.png</file>
+  </qresource>
+</RCC>
