@@ -21,7 +21,9 @@
    **R: Falso** 
    ***Justificación***: Se debe implementar el método `run`.
 7. Un _thread_ _daemon_ se deja de ejecutar cuando el _thread_ principal termina.
-   **R: Verdadero**
+   **R: Falso**
+   ***Justificación***: Se termina cuando todos los _thread_ no _daemon_ terminan.
+   **Importante**: Se tomará como correcto sólo si ponen Verdadero ó Falso con justificación correcta (no hay puntaje parcial).
 8. Un _deadlock_ se produce solamente cuando se usan _locks_.
    **R: Falso**
    ***Justificación***: Puede producirse usando cualquier primitiva de sincronización, incluyendo _Events_.
