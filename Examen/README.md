@@ -270,9 +270,10 @@ Era necesario tener 30 de los siguientes items para obtener los 15 puntos:
 
 ## Pregunta 3: Estructura de Datos y Algoritmos
 
-... Enunciado ...
-
 Usted deberá implementar varios métodos en una clase llamada `Grafo`. No debe crear una clase para los nodos del grafo, sino que debe usar estructuras básicas (_i. e._ listas, diccionarios, _strings_, _sets_, tuplas o números) dentro de `Grafo` para representar nodos y aristas.
+
+
+**Disclaimer**: hay muchas formas de resolver esta pregunta en general. Si eran consistentes no hay problemas.
 
 1. **(4 pts)** Implemente el método `def __init__(self)` de forma de inicializar un grafo vacío. En este método usted debería establecer variables para guardar la información del grafo.
 
@@ -283,12 +284,12 @@ Hay muchas formas. Se debe tener una forma de guardar los nodos y las conexiones
 ```python
 def __init__(self):
     self.nodos = set()
-    self.adyacencia = defaultdict(dict)
+    self.adyacencia = collections.defaultdict(dict)
 ```
 
 **Rúbrica:**
 
-- 2 ptos Hay una estructura para guardar los nodos que hay (Una estructura **adecuada**).
+- 2 ptos Hay una estructura para guardar los nodos (Una estructura **adecuada**).
 - 2 ptos Hay una estructura para guardar las aristas con sus pesos (Puede ser la misma anterior).
 (puede ser la misma estructura para ambos)
 **Importante:** Si se utilizó una clase `Nodo`, se descuenta 2 puntos.
@@ -373,14 +374,14 @@ Por último, el DCC quiere simular cómo se podría comportar un usuario que par
 **Respuesta:** Se puede asumir que siempre van a haber conexiones mínimas.
 
 ```python
-def camino_aleatorio(self, pagina_a, largo):
+def camino_aleatorio(self, pagina, largo):
         # Iterativo
-        path = [pagina_a]
+        path = [pagina]
         for _ in range(largo):
             nodo_actual = path[-1]
             vecinos = list(self.adyacencia[nodo_actual])
-            pesos = [self.probabilidad_camino(nodo_actual, x) for x in vecinos]
-            elegido = random.choices(vecinos, pesos, k=1)
+            pesos = [self.probabilidad_siguiente(nodo_actual, x) for x in vecinos]
+            elegido = random.choices(vecinos, pesos, k=1)[0]
             path.append(elegido)
         return path
 ```
@@ -394,9 +395,31 @@ def camino_aleatorio(self, pagina_a, largo):
 
 **Respuesta:**
 
+Esta es una forma, en donde se utilizó una función auxiliar.
+
 ```python
-def caminos_tamano_k(self, pagina_a, k):
-    # Se subirá en breves instantes.
+def caminos_tamano_k(self, pagina, k):
+    caminos = list()
+    for link in self.adyacencia[pagina]:
+        posibles = self._caminos_tamano_k(link, k - 1)
+        for camino in posibles:
+            new = [pagina]
+            new.extend(camino)
+            caminos.append(new)
+    return [(camino, self.probabilidad_camino(camino)) for camino in caminos]
+
+def _caminos_tamano_k(self, pagina, k):
+    if k <= 1:
+        return [[pagina]]
+    caminos = list()
+    nodos = self.adyacencia[pagina]
+    for link in nodos:
+        posibles = self._caminos_tamano_k(link, k - 1)
+        for camino in posibles:
+            new = [pagina]
+            new.extend(camino)
+            caminos.append(new)
+    return list(caminos)
 ```
 
 **Rúbrica:**
